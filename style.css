@@ -213,7 +213,7 @@ nav ul li a {
   position: relative;
 }
 #burgerMenu .block.one {
-  background: url(../assets/img/burgerMenu2.jpg);
+  background: url('../assets/img/burgerMenu2.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
