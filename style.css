@@ -334,6 +334,9 @@ nav ul li a {
 #events .slick-dots li button:before {
   font-size: 14px;
 }
+#events .block img {
+  padding: 0 5px;
+}
 #events .block.one {
   padding: 25px;
 }
