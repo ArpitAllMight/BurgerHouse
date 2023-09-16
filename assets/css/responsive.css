@@ -21,6 +21,9 @@
   body.active {
     overflow-y: hidden;
   }
+  #slickSlider .slide {
+    justify-content: space-evenly;
+  }
   #hamBurger {
     display: block;
   }
