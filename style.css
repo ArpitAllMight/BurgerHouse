@@ -180,7 +180,6 @@ nav ul li a {
   width: 50%;
 }
 #burgerMenu .column.one {
-  background: url('../assets/webp/burgerMenu1.webp');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -213,7 +212,6 @@ nav ul li a {
   position: relative;
 }
 #burgerMenu .block.one {
-  background: url('../assets/webp/burgerMenu2.webp');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -221,7 +219,6 @@ nav ul li a {
   padding: 30px;
 }
 #burgerMenu .block.two {
-  background: url('../assets/webp/burgerMenu3.webp');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -444,7 +441,6 @@ footer {
   margin-bottom: 40px;
 }
 footer .container {
-  background: url('../assets/webp/footerBG.webp');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
