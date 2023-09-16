@@ -103,7 +103,7 @@ nav ul li a {
 #slickSlider .slide {
   display: flex;
   align-items: center;
-  justify-content: space-evenly;
+  justify-content: center;
 }
 #slickSlider .block {
   text-transform: uppercase;
